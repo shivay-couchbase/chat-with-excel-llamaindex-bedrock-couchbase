@@ -1,0 +1,9 @@
+llama-index==0.11.4
+llama-index-vector-stores-couchbase==0.2.1
+llama-index-readers-file==0.1.33
+streamlit==1.38.0
+nltk==3.9.1
+llama-parse
+llama-index-llms-bedrock 
+fastembed 
+llama-index-embeddings-bedrock
